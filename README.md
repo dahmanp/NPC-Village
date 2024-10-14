@@ -1,3 +1,3 @@
 # NPC Village
  
-Build: https://github.com/dahmanp/NPC-Village
+Build: https://dahmanp.github.io/NPC-Village/
